@@ -89,6 +89,7 @@
 - [Lord Adarsh]( https://github.com/adarsh-why )
 - [Roshan Jossey]( https://github.com/Roshanjossey )
 - [Ujjwal](https://github.com/uforujjwal)
+- [Pannatorn Supharatnodom](https://github.com/leaderdevil)
 - [Shruthi](https://github.com/lakshmishruthi)
 - [Tapan Prakash T](https://github.com/tapanprakasht)
 - [Kamal Mohanan](https://github.com/kmlmhnn)
